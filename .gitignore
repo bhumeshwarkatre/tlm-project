@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Browser Sessions
+browser_session/
+session.json
+
+# Data Files
+data/*.csv
+data/cache.json
+
+# Logs
+logs/
+*.log
+
+# Playwright
+playwright-report/
+test-results/
+
+# VS Code
+.vscode/
+
+# Temp
+temp/
+tmp/
